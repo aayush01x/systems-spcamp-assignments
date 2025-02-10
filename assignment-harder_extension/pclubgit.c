@@ -23,8 +23,6 @@
  *   * read_string_from_file(filename,str,size): read a string of at most <size> (incl.
  *     NULL character) from file <filename> and store it into <str>. Note that <str>
  *     needs to be large enough to hold that string.
- *  - You NEED to test your code. The autograder we provide does not contain the
- *    full set of tests that we will run on your code. See "Step 5" in the project spec.
  */
 
 /* pclubgit init
